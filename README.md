@@ -416,4 +416,4 @@ pip install -r requirements.txt
 
 ## License
 
-Internal tool. Not licensed for external distribution.
+UNLICENSED
